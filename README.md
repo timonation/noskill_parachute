@@ -1,2 +1,4 @@
 # Parachute
-This script gives you automatically a parachute when you get in a plane or helicopter.
+simple parachute script for fivem/esx
+
+make sure the correct item from the config are in your items on your server
